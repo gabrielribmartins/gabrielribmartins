@@ -2,7 +2,6 @@
 
   Estudante de Engenharia de Software e Arquitetura de Dados 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apigabrielribmartins)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
