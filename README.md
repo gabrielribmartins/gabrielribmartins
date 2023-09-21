@@ -2,10 +2,9 @@
 
   Estudante de Engenharia de Software e Arquitetura de Dados 
 
+![Gabe GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielribmartins&show_icons=true&theme=radical)
 
-
-
-  ##
+  ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
